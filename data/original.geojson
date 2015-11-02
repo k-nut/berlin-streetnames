@@ -1,0 +1,2328 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-10-31T13:58:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/28505497",
+      "properties": {
+        "@id": "way/28505497",
+        "area": "yes",
+        "bicycle": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Max-Fettling-Platz",
+        "note:de": "Fettling, Max Bruno,(* 1907 Berlin; † Februar 1974 Berlin), Bauarbeiter, Gewerkschaftsfunktionär, Opfer des 17. Juni 1953."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.4368349,
+              52.5252077
+            ],
+            [
+              13.4369805,
+              52.5252437
+            ],
+            [
+              13.4370513,
+              52.525283
+            ],
+            [
+              13.4370985,
+              52.5253715
+            ],
+            [
+              13.4370846,
+              52.5254341
+            ],
+            [
+              13.4370046,
+              52.525504
+            ],
+            [
+              13.4369494,
+              52.5255301
+            ],
+            [
+              13.4368316,
+              52.5255757
+            ],
+            [
+              13.4368743,
+              52.5254614
+            ],
+            [
+              13.4368763,
+              52.5253839
+            ],
+            [
+              13.4368641,
+              52.5252961
+            ],
+            [
+              13.4368349,
+              52.5252077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615062",
+      "properties": {
+        "@id": "way/4615062",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Käthe-Niederkirchner-Straße",
+        "note:de": "Käthe Niederkirchner (*1909; †1944), Widerständskämpferin gegen die Nazis. Am 28. September 1944 im Konzentrationslager Ravensbrück ermordet.",
+        "old_name": "LIppehner Straße",
+        "postal_code": "10407",
+        "sidewalk": "both",
+        "surface": "cobblestone",
+        "wikipedia": "de:Käthe Niederkirchner"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4283397,
+            52.5319418
+          ],
+          [
+            13.4303742,
+            52.5311009
+          ],
+          [
+            13.4323191,
+            52.5302795
+          ],
+          [
+            13.4341427,
+            52.5295868
+          ],
+          [
+            13.4342435,
+            52.5292396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615460",
+      "properties": {
+        "@id": "way/4615460",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Virchowstraße",
+        "name:etymology:wikipedia": "de:Rudolf Virchow",
+        "note:de": "Rudolf Virchow (*1821;†1902), Mediziner und Politiker, Begründer der modernen Pathologie",
+        "postal_code": "10249",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4385486,
+            52.528851
+          ],
+          [
+            13.4385086,
+            52.5285797
+          ],
+          [
+            13.4385683,
+            52.528527
+          ],
+          [
+            13.4391628,
+            52.5279764
+          ],
+          [
+            13.4393467,
+            52.527904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615467",
+      "properties": {
+        "@id": "way/4615467",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Margarete-Sommer-Straße",
+        "note:de": "Magarete Sommer (*1893; †1965), Sozialpädagogin, Leiterin des katholischen Hilfswerks. Sie betreute 3365 Menschen und versteckte jüdische Mitbürger in der Zeit des NS-Regimes. Israel verlieh ihr durch die Gedenkstätte Yad Vashem den Titel \"Gerechte",
+        "postal_code": "10407"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4423073,
+            52.5311438
+          ],
+          [
+            13.4422138,
+            52.5310805
+          ],
+          [
+            13.4418571,
+            52.5308391
+          ],
+          [
+            13.4411685,
+            52.5304201
+          ],
+          [
+            13.4410767,
+            52.5303661
+          ],
+          [
+            13.440978,
+            52.5303028
+          ],
+          [
+            13.4387062,
+            52.5288688
+          ],
+          [
+            13.4385486,
+            52.528851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615468",
+      "properties": {
+        "@id": "way/4615468",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Virchowstraße",
+        "note:de": "Rudolf Virchow (*1821; †1902), Mediziner und Politiker, Begründer der modernen Pathologie",
+        "postal_code": "10249",
+        "wikipedia": "de:Rudolf Virchow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4375938,
+            52.529597
+          ],
+          [
+            13.4377018,
+            52.5294997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615742",
+      "properties": {
+        "@id": "way/4615742",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Auerstraße",
+        "name:de": "(Richthofen Straße)",
+        "note:de": "Freiherr Carl Friedrich Auer von Welsbach (*1858; †1929), Erfinder der Osmium Metallfadenlampe und Entdecker der vier chemischen Elemente Neodym, Praseodym, Ytterbium und Lutetium.",
+        "postal_code": "10249",
+        "surface": "asphalt",
+        "wikipedia": "de:Carl Auer von Welsbach"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.442815,
+            52.5180165
+          ],
+          [
+            13.4432913,
+            52.5184016
+          ],
+          [
+            13.4440464,
+            52.519038
+          ],
+          [
+            13.4450662,
+            52.5200213
+          ],
+          [
+            13.4454769,
+            52.5204061
+          ],
+          [
+            13.4464379,
+            52.5212704
+          ],
+          [
+            13.4465782,
+            52.5213633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615743",
+      "properties": {
+        "@id": "way/4615743",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Pufendorfstraße",
+        "note:de": "Samuel Freiherr von Pufendorf (*1632; †1694), Philosophe, Historiker, Kurist, erster deutscher Naturrechtslehrer",
+        "postal_code": "10249",
+        "source:maxspeed": "DE:zone",
+        "surface": "cobblestone",
+        "wikipedia": "de:Samuel Freiherr von Pufendorf"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4368115,
+            52.5208791
+          ],
+          [
+            13.4369686,
+            52.5209675
+          ],
+          [
+            13.4378106,
+            52.5214562
+          ],
+          [
+            13.4381886,
+            52.5216858
+          ],
+          [
+            13.4388086,
+            52.5220513
+          ],
+          [
+            13.4396705,
+            52.5225519
+          ],
+          [
+            13.4403293,
+            52.5229345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615744",
+      "properties": {
+        "@id": "way/4615744",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Matthiasstraße",
+        "note:de": "Thomas Matthias (* um 1520; †1576), Bürgermeister Berlins von 1663-1571",
+        "postal_code": "10249",
+        "source:maxspeed": "DE:zone",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4409216,
+            52.5221595
+          ],
+          [
+            13.440896,
+            52.5222368
+          ],
+          [
+            13.4403293,
+            52.5229345
+          ],
+          [
+            13.439686,
+            52.5237942
+          ],
+          [
+            13.4396631,
+            52.5238243
+          ],
+          [
+            13.43961,
+            52.5238942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615745",
+      "properties": {
+        "@id": "way/4615745",
+        "description": "Richard Sorge (1895-1944), a German communist, working as a spy for the Soviet Union in Japan during WW2",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Richard-Sorge-Straße",
+        "name:de": "(Tilsiter Straße)",
+        "note:de": "Richard Sorge (*1895; †1944), deutscher Kommunist, Journalist und Spion für die Sowjetunion in Japan",
+        "old_name": "Tilsiter Straße",
+        "postal_code": "10249",
+        "surface": "asphalt",
+        "wikipedia": "de:Richard-Sorge-Straße"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4465782,
+            52.5213633
+          ],
+          [
+            13.4458933,
+            52.522331
+          ],
+          [
+            13.4453297,
+            52.5231072
+          ],
+          [
+            13.4451668,
+            52.523335
+          ],
+          [
+            13.4451582,
+            52.5233471
+          ],
+          [
+            13.4444906,
+            52.5242799
+          ],
+          [
+            13.4439749,
+            52.5250223
+          ],
+          [
+            13.4439351,
+            52.5250783
+          ],
+          [
+            13.4439185,
+            52.5250975
+          ],
+          [
+            13.4438868,
+            52.5251348
+          ],
+          [
+            13.4438645,
+            52.5251649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615782",
+      "properties": {
+        "@id": "way/4615782",
+        "highway": "living_street",
+        "maxspeed": "10",
+        "name": "Kochhannstraße",
+        "note:de": "Friedrich Heinrich Eduard Kochhann (*1805; †1890), Berliner Politiker",
+        "postal_code": "10249",
+        "surface": "paved",
+        "wikipedia": "de:Friedrich Heinrich Eduard Kochhann"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4451668,
+            52.523335
+          ],
+          [
+            13.444607,
+            52.5231953
+          ],
+          [
+            13.444131,
+            52.5230707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615783",
+      "properties": {
+        "@id": "way/4615783",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Straßmannstraße",
+        "note:de": "Wolfgang Straßmann (*1820; †1895) Arzt, Stadtverordnetenvorsteher",
+        "postal_code": "10249",
+        "surface": "asphalt",
+        "wikipedia": "de:Wolfgang Straßmann"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4465782,
+            52.5213633
+          ],
+          [
+            13.4479442,
+            52.5217048
+          ],
+          [
+            13.4490437,
+            52.5219798
+          ],
+          [
+            13.4494662,
+            52.5220854
+          ],
+          [
+            13.4498124,
+            52.522172
+          ],
+          [
+            13.450242,
+            52.5222794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4615785",
+      "properties": {
+        "@id": "way/4615785",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "30",
+        "name": "Pintschstraße",
+        "note:de": "Julius Pintsch (*1816; †1884), Konstrukteur des ersten deutschen Gasmessers",
+        "oneway": "yes",
+        "postal_code": "10249",
+        "surface": "cobblestone",
+        "wikipedia": "de:Julius Pintsch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4490437,
+            52.5219798
+          ],
+          [
+            13.447685,
+            52.5239837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4616192",
+      "properties": {
+        "@id": "way/4616192",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Richard-Sorge-Straße",
+        "name:de": "(Tilsiter Straße)",
+        "note:de": "Richard Sorge (*1895; †1944), deutscher Kommunist, Journalist und Spion für die Sowjetunion in Japan",
+        "postal_code": "10249",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.449212,
+            52.5177324
+          ],
+          [
+            13.4489684,
+            52.5180731
+          ],
+          [
+            13.4479572,
+            52.5194875
+          ],
+          [
+            13.4465782,
+            52.5213633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4685731",
+      "properties": {
+        "@id": "way/4685731",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Bänschstraße",
+        "note:de": "Willi Bänsch (*1908; †1944) war ein deutscher Schlosser und Widerstandskämpfer gegen das NS-Regime. Im Zuchthaus Brandenburg hingerichtet.",
+        "postal_code": "10247",
+        "surface": "cobblestone",
+        "wikipedia": "de:Willi Bänsch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4580678,
+            52.5195445
+          ],
+          [
+            13.4581169,
+            52.5194882
+          ],
+          [
+            13.4599884,
+            52.5191386
+          ],
+          [
+            13.4619511,
+            52.5187508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4782516",
+      "properties": {
+        "@id": "way/4782516",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Kurt-Exner-Straße",
+        "note:de": "†1996);Bezirksbürgermeister, Senator, (*1901",
+        "postal_code": "10249",
+        "surface": "cobblestone",
+        "wikipedia": "de:Kurt Exner"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4570559,
+            52.5248386
+          ],
+          [
+            13.4559409,
+            52.5245629
+          ],
+          [
+            13.4555051,
+            52.5244501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4789051",
+      "properties": {
+        "@id": "way/4789051",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Straßmannstraße",
+        "note:de": "Wolfgang Straßmann (*1820; †1895) Arzt, Stadtverordnetenvorsteher",
+        "postal_code": "10249",
+        "source:maxspeed": "DE:zone",
+        "surface": "cobblestone",
+        "wikipedia": "de:Wolfgang Straßmann"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4506282,
+            52.5223813
+          ],
+          [
+            13.4535749,
+            52.5231248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4789055",
+      "properties": {
+        "@id": "way/4789055",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Matternstraße",
+        "note:de": "Theodor Mattern (*1820; †1909), Berliner Stadtverordneter",
+        "postal_code": "10249",
+        "wikipedia": "de:Theodor Mattern"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4512909,
+            52.5214242
+          ],
+          [
+            13.4542261,
+            52.5221711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4789056",
+      "properties": {
+        "@id": "way/4789056",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Ebelingstraße",
+        "note:de": "Emil Ebeling (*1801; †1883), Kommerzienrat und Stadtverordneter",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "postal_code": "10249",
+        "source:maxspeed": "DE:zone",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.449927,
+            52.5233937
+          ],
+          [
+            13.4514703,
+            52.5237907
+          ],
+          [
+            13.4528797,
+            52.5241412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4789057",
+      "properties": {
+        "@id": "way/4789057",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Weisbachstraße",
+        "note:de": "Valentin Weisbach (*1843; †1899), engagierte sich für die Verbesserung der Berliner Wohnungssituation.",
+        "postal_code": "10249",
+        "wikipedia": "de:Valentin Weisbach"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4507973,
+            52.5247794
+          ],
+          [
+            13.4514703,
+            52.5237907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4789060",
+      "properties": {
+        "@id": "way/4789060",
+        "highway": "footway",
+        "name": "Heidenfeldstraße",
+        "note:de": "Theodor Heidenfeld (*1834; †1884), Justizreat, Berliner Landgericht",
+        "postal_code": "10249",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4485678,
+            52.5253861
+          ],
+          [
+            13.4490754,
+            52.525513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8084132",
+      "properties": {
+        "@id": "way/8084132",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Ebertystraße",
+        "note:de": "Eduard Eberty (*1804; †1894) Berliner Stadtsyndicus",
+        "postal_code": "10249",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4508498,
+            52.5271622
+          ],
+          [
+            13.4509645,
+            52.5269849
+          ],
+          [
+            13.4511591,
+            52.5266781
+          ],
+          [
+            13.4515151,
+            52.5261383
+          ],
+          [
+            13.4522133,
+            52.5251448
+          ],
+          [
+            13.4523971,
+            52.5248738
+          ],
+          [
+            13.4527461,
+            52.524344
+          ],
+          [
+            13.4528797,
+            52.5241412
+          ],
+          [
+            13.4535749,
+            52.5231248
+          ],
+          [
+            13.4542261,
+            52.5221711
+          ],
+          [
+            13.4547823,
+            52.5213238
+          ],
+          [
+            13.455054,
+            52.5212186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8113939",
+      "properties": {
+        "@id": "way/8113939",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Max-Brunnow-Straße",
+        "note:de": "Max Brunnow (*1886; †1940), Widerstandskämpfer, ermordet im KZ Sachsenhausen",
+        "postal_code": "10369",
+        "wikipedia": "de:Max Brunnow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.459956,
+            52.5264801
+          ],
+          [
+            13.4588982,
+            52.5266627
+          ],
+          [
+            13.4588076,
+            52.526674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8428399",
+      "properties": {
+        "@id": "way/8428399",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Hermann-Blankenstein-Straße",
+        "note:de": "Hermann Blankenstein (*1829; †1910), Berliner Stadtbaurat und Architekt",
+        "postal_code": "10249",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4531472,
+            52.52625
+          ],
+          [
+            13.453369,
+            52.5263049
+          ],
+          [
+            13.4541281,
+            52.526495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23426547",
+      "properties": {
+        "@id": "way/23426547",
+        "highway": "footway",
+        "name": "Diestelmeyerstraße",
+        "note:de": "Lamprecht Diestelmeyer (*1522; †1588), Hofrat des Kurfürstentums Brandenburg und Stifter des \"Grauen Kloster\"",
+        "surface": "cobblestone",
+        "wikipedia": "de:Graues Kloster (Berlin)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4381008,
+            52.5203813
+          ],
+          [
+            13.4399861,
+            52.521501
+          ],
+          [
+            13.4401902,
+            52.5217026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24619799",
+      "properties": {
+        "@id": "way/24619799",
+        "bicycle": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Ernst-Zinna-Weg",
+        "note:de": "Ernst Zinna (*1830; †1848), starb als letzter Verteidiger der Barrikade Jäger- Ecke Friedrichstraße während der Märzrevolution 1848.",
+        "surface": "cobblestone",
+        "wikipedia": "de:Ernst Zinna"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4366284,
+            52.5234788
+          ],
+          [
+            13.4366,
+            52.5235528
+          ],
+          [
+            13.4365934,
+            52.5235699
+          ],
+          [
+            13.4365865,
+            52.5237042
+          ],
+          [
+            13.4365382,
+            52.5238056
+          ],
+          [
+            13.4363906,
+            52.5241071
+          ],
+          [
+            13.4362507,
+            52.5243453
+          ],
+          [
+            13.4361893,
+            52.5244687
+          ],
+          [
+            13.4361664,
+            52.5245887
+          ],
+          [
+            13.436186,
+            52.5246829
+          ],
+          [
+            13.43622,
+            52.524801
+          ],
+          [
+            13.4362806,
+            52.5248729
+          ],
+          [
+            13.4363778,
+            52.5249647
+          ],
+          [
+            13.4364958,
+            52.5250377
+          ],
+          [
+            13.4366888,
+            52.5251346
+          ],
+          [
+            13.4368349,
+            52.5252077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26138864",
+      "properties": {
+        "@id": "way/26138864",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Mühsamstraße",
+        "name:de": "(Zorndorfer Straße)",
+        "note:de": "Erich Mühsam (*1878; †1934), Schriftsteller; als Hitlergegner 1934 im KZ Oranienburg ermordet",
+        "postal_code": "10249",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4464661,
+            52.5190933
+          ],
+          [
+            13.4479572,
+            52.5194875
+          ],
+          [
+            13.4499245,
+            52.5199868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26973375",
+      "properties": {
+        "@id": "way/26973375",
+        "addr:postcode": "10247",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Bänschstraße",
+        "note:de": "Willi Bänsch (*1908; †1944) war ein deutscher Schlosser und Widerstandskämpfer gegen das NS-Regime. Im Zuchthaus Brandenburg hingerichtet.",
+        "oneway": "yes",
+        "wikipedia": "de:Willi Bänsch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4619511,
+            52.5187508
+          ],
+          [
+            13.4659039,
+            52.5180116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26974619",
+      "properties": {
+        "@id": "way/26974619",
+        "addr:postcode": "10247",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Bänschstraße",
+        "note:de": "Willi Bänsch (*1908; †1944) war ein deutscher Schlosser und Widerstandskämpfer gegen das NS-Regime. Im Zuchthaus Brandenburg hingerichtet.",
+        "oneway": "yes",
+        "wikipedia": "de:Willi Bänsch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4659771,
+            52.5181688
+          ],
+          [
+            13.4620337,
+            52.5189155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28110441",
+      "properties": {
+        "@id": "way/28110441",
+        "access": "destination",
+        "foot": "yes",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Virchowstraße",
+        "note:de": "Rudolf Virchow (*1821; †1902), Mediziner und Politiker, Begründer der modernen Pathologie",
+        "postal_code": "10249"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4409188,
+            52.5263364
+          ],
+          [
+            13.4410978,
+            52.5261542
+          ],
+          [
+            13.4414758,
+            52.5258077
+          ],
+          [
+            13.4416452,
+            52.5256528
+          ],
+          [
+            13.4418148,
+            52.5254857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28189973",
+      "properties": {
+        "@id": "way/28189973",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Agnes-Wabnitz-Straße",
+        "note:de": "Mantelnäherin und Vorkämpferin für die Gleichberechtigung (*1842; †1894)",
+        "postal_code": "10249",
+        "surface": "cobblestone",
+        "wikipedia": "de:Agnes Wabnitz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4564713,
+            52.5257078
+          ],
+          [
+            13.4553629,
+            52.5254298
+          ],
+          [
+            13.4549138,
+            52.5253171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28197508",
+      "properties": {
+        "@id": "way/28197508",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Thaerstraße",
+        "note:de": "Albrecht Daniel Thaer, Agrarreformer (*1752; †1828)",
+        "postal_code": "10249",
+        "sidewalk": "both",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "wikipedia": "de:Albrecht Daniel Thaer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.455054,
+            52.5212186
+          ],
+          [
+            13.4556721,
+            52.5220467
+          ],
+          [
+            13.4558301,
+            52.5222712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28197510",
+      "properties": {
+        "@id": "way/28197510",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Erich-Nehlhans-Straße",
+        "note:de": "Erich Nehlhans (*1899; †1950), Erster Vorsitzender der Jüdischen Gemeinde in Berlin nach 1945",
+        "postal_code": "10247",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikipedia": "de:Erich Nehlhans"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4607939,
+            52.5238921
+          ],
+          [
+            13.4605629,
+            52.5239358
+          ],
+          [
+            13.4602883,
+            52.5239878
+          ],
+          [
+            13.4598432,
+            52.524072
+          ],
+          [
+            13.4594043,
+            52.5241539
+          ],
+          [
+            13.4587075,
+            52.5242822
+          ],
+          [
+            13.4579672,
+            52.524422
+          ],
+          [
+            13.4578648,
+            52.5244414
+          ],
+          [
+            13.4573993,
+            52.5245346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28222110",
+      "properties": {
+        "@id": "way/28222110",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Kochhannstraße",
+        "note:de": "Friedrich Heinrich Eduard Kochhann (*1805; †1890), Berliner Politiker",
+        "postal_code": "10249",
+        "surface": "paved",
+        "wikipedia": "de:Friedrich Heinrich Eduard Kochhann"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4522133,
+            52.5251448
+          ],
+          [
+            13.4526291,
+            52.5252505
+          ],
+          [
+            13.4536579,
+            52.5255145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28536387",
+      "properties": {
+        "@id": "way/28536387",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Heidenfeldstraße",
+        "note:de": "Theodor Heidenfeld (*1834; †1884), Justizreat, Berliner Landgericht",
+        "postal_code": "10249",
+        "source:maxspeed": "DE:zone",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4490754,
+            52.525513
+          ],
+          [
+            13.4492492,
+            52.5255575
+          ],
+          [
+            13.4511356,
+            52.5260404
+          ],
+          [
+            13.4515151,
+            52.5261383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28935244",
+      "properties": {
+        "@id": "way/28935244",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Diestelmeyerstraße",
+        "note:de": "Lamprecht Diestelmeyer (*1522; †1588), Hofrat des Kurfürstentums Brandenburg und Stifter des \"Grauen Kloster\"",
+        "postal_code": "10249",
+        "source:maxspeed": "DE:zone",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4401902,
+            52.5217026
+          ],
+          [
+            13.4408434,
+            52.5220882
+          ],
+          [
+            13.4409216,
+            52.5221595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29255284",
+      "properties": {
+        "@id": "way/29255284",
+        "access": "no",
+        "highway": "service",
+        "note:de": "Lieferverkehr Kaiser's"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4481032,
+            52.5254534
+          ],
+          [
+            13.4478615,
+            52.5253914
+          ],
+          [
+            13.4468726,
+            52.5251376
+          ],
+          [
+            13.4468201,
+            52.5251242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29255295",
+      "properties": {
+        "@id": "way/29255295",
+        "highway": "footway",
+        "name": "Wilhelm-Stolze-Straße",
+        "note:de": "Heinrich August Wilhelm Stolze (*1798; †1867), Erfinder der Kurzschrift",
+        "wikipedia": "de:Heinrich August Wilhelm Stolze"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4460212,
+            52.5246308
+          ],
+          [
+            13.4465942,
+            52.5237995
+          ],
+          [
+            13.4466463,
+            52.5237193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30422501",
+      "properties": {
+        "@id": "way/30422501",
+        "highway": "residential",
+        "maxspeed": "50",
+        "name": "Mühsamstraße",
+        "note:de": "Erich Mühsam (*1878; †1934), Schriftsteller; als Hitlergegner 1934 im KZ Oranienburg ermordet",
+        "postal_code": "10249",
+        "surface": "asphalt",
+        "wikipedia": "de:Erich Mühsam"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.454645,
+            52.5211918
+          ],
+          [
+            13.4548978,
+            52.5210172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30882962",
+      "properties": {
+        "@id": "way/30882962",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Thaerstraße",
+        "note:de": "Albrecht Daniel Thaer, Agrarreformer (*1752; †1828)",
+        "postal_code": "10249",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "wikipedia": "de:Albrecht Daniel Thaer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4588953,
+            52.5259491
+          ],
+          [
+            13.4590617,
+            52.5260427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42989973",
+      "properties": {
+        "@id": "way/42989973",
+        "bicycle": "yes",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Virchowstraße",
+        "name:etymology:wikipedia": "de:Rudolf Virchow",
+        "note:de": "Rudolf Virchow (*1821;†1902), Mediziner und Politiker, Begründer der modernen Pathologie",
+        "postal_code": "10249",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4393467,
+            52.527904
+          ],
+          [
+            13.4398988,
+            52.5276848
+          ],
+          [
+            13.4399629,
+            52.5275656
+          ],
+          [
+            13.4400012,
+            52.5273656
+          ],
+          [
+            13.4401,
+            52.5270759
+          ],
+          [
+            13.4406389,
+            52.5266206
+          ],
+          [
+            13.4408194,
+            52.5265599
+          ],
+          [
+            13.4409421,
+            52.5264124
+          ],
+          [
+            13.4409188,
+            52.5263364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44851670",
+      "properties": {
+        "@id": "way/44851670",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Kochhannstraße",
+        "note:de": "Friedrich Heinrich Eduard Kochhann (*1805; †1890), Berliner Politiker",
+        "postal_code": "10249",
+        "surface": "paved",
+        "wikipedia": "de:Friedrich Heinrich Eduard Kochhann"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4451582,
+            52.5233471
+          ],
+          [
+            13.446607,
+            52.5237093
+          ],
+          [
+            13.4466463,
+            52.5237193
+          ],
+          [
+            13.4471124,
+            52.523838
+          ],
+          [
+            13.447685,
+            52.5239837
+          ],
+          [
+            13.4488845,
+            52.5242944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93628041",
+      "properties": {
+        "@id": "way/93628041",
+        "access": "destination",
+        "highway": "residential",
+        "name": "Virchowstraße",
+        "note:de": "Rudolf Virchow (*1821; †1902), Mediziner und Politiker, Begründer der modernen Pathologie",
+        "postal_code": "10249"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4418148,
+            52.5254857
+          ],
+          [
+            13.4423505,
+            52.5249853
+          ],
+          [
+            13.4423864,
+            52.5249518
+          ],
+          [
+            13.4424483,
+            52.524894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/114684413",
+      "properties": {
+        "@id": "way/114684413",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Kochhannstraße",
+        "note:de": "Friedrich Heinrich Eduard Kochhann (*1805; †1890), Berliner Politiker",
+        "postal_code": "10249",
+        "source:maxspeed": "DE:zone",
+        "surface": "paved",
+        "wikipedia": "de:Friedrich Heinrich Eduard Kochhann"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4492445,
+            52.5243918
+          ],
+          [
+            13.449745,
+            52.5245183
+          ],
+          [
+            13.4507973,
+            52.5247794
+          ],
+          [
+            13.4522133,
+            52.5251448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129118314",
+      "properties": {
+        "@id": "way/129118314",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Agnes-Wabnitz-Straße",
+        "note:de": "Mantelnäherin und Vorkämpferin für die Gleichberechtigung (*1842; †1894)",
+        "postal_code": "10249",
+        "surface": "cobblestone",
+        "wikipedia": "de:Agnes Wabnitz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4546974,
+            52.5256444
+          ],
+          [
+            13.4562582,
+            52.5260284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129118368",
+      "properties": {
+        "@id": "way/129118368",
+        "cycleway": "track",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Hermann-Blankenstein-Straße",
+        "note:de": "Hermann Blankenstein (*1829; †1910), Berliner Stadtbaurat und Architekt",
+        "postal_code": "10249",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "wikipedia": "de:Hermann Blankenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4565528,
+            52.5271153
+          ],
+          [
+            13.4573343,
+            52.526298
+          ],
+          [
+            13.457732,
+            52.5259504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140498882",
+      "properties": {
+        "@id": "way/140498882",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Mühsamstraße",
+        "name:de": "(Zorndorfer Straße)",
+        "note:de": "Erich Mühsam (*1878; †1934), Schriftsteller; als Hitlergegner 1934 im KZ Oranienburg ermordet",
+        "postal_code": "10249",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.451919,
+            52.5205013
+          ],
+          [
+            13.4523094,
+            52.5206002
+          ],
+          [
+            13.454645,
+            52.5211918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151128634",
+      "properties": {
+        "@id": "way/151128634",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Hübnerstraße",
+        "note:de": "Carl Hugo Hübner (*1827; †1920), Berliner Sradtrat",
+        "oneway": "no",
+        "postal_code": "10247",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4568867,
+            52.5208797
+          ],
+          [
+            13.4567241,
+            52.5206197
+          ],
+          [
+            13.4563473,
+            52.5200195
+          ],
+          [
+            13.4559287,
+            52.5193482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151128678",
+      "properties": {
+        "@id": "way/151128678",
+        "bridge": "yes",
+        "cycleway": "track",
+        "highway": "tertiary",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Thaerstraßenbrücke",
+        "note:de": "Albrecht Daniel Thaer, Agrarreformer (1752–1828)",
+        "postal_code": "10249",
+        "sidewalk": "both",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|none",
+        "wikipedia": "de:Albrecht Daniel Thaer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4583624,
+            52.5256472
+          ],
+          [
+            13.4588953,
+            52.5259491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154262442",
+      "properties": {
+        "@id": "way/154262442",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Hermann-Blankenstein-Straße",
+        "note:de": "Hermann Blankenstein (*1829; †1910), Berliner Stadtbaurat und Architekt",
+        "postal_code": "10249",
+        "surface": "asphalt",
+        "wikipedia": "de:Hermann Blankenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4541281,
+            52.526495
+          ],
+          [
+            13.4556828,
+            52.5268943
+          ],
+          [
+            13.4565528,
+            52.5271153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154381296",
+      "properties": {
+        "@id": "way/154381296",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Zellestraße",
+        "note:de": "Robert Zelle (*1829; †1901), zwischen 1892 und 1898 Oberbürgermeister von Berlin",
+        "postal_code": "10247",
+        "surface": "cobblestone",
+        "website": "http://de.wikipedia.org/wiki/Robert_Zelle",
+        "wikipedia": "de:Robert Zelle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4599884,
+            52.5191386
+          ],
+          [
+            13.4591042,
+            52.5174553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175916784",
+      "properties": {
+        "@id": "way/175916784",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Virchowstraße",
+        "note:de": "Rudolf Virchow (*1821; †1902), Mediziner und Politiker, Begründer der modernen Pathologie",
+        "postal_code": "10249",
+        "wikipedia": "de:Rudolf Virchow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4377018,
+            52.5294997
+          ],
+          [
+            13.4382997,
+            52.5289618
+          ],
+          [
+            13.4384001,
+            52.5288715
+          ],
+          [
+            13.4385486,
+            52.528851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/182614429",
+      "properties": {
+        "@id": "way/182614429",
+        "highway": "residential",
+        "maxspeed": "50",
+        "name": "Kochhannstraße",
+        "note:de": "Friedrich Heinrich Eduard Kochhann (*1805; †1890), Berliner Politiker",
+        "postal_code": "10249",
+        "surface": "paved",
+        "wikipedia": "de:Friedrich Heinrich Eduard Kochhann"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4488845,
+            52.5242944
+          ],
+          [
+            13.4490332,
+            52.5243336
+          ],
+          [
+            13.449077,
+            52.5243452
+          ],
+          [
+            13.4492445,
+            52.5243918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/182614430",
+      "properties": {
+        "@id": "way/182614430",
+        "cycleway": "lane",
+        "highway": "residential",
+        "maxspeed": "50",
+        "name": "Matthiasstraße",
+        "note:de": "Thomas Matthias (* um 1520; †1576), Bürgermeister Berlins von 1663-1571",
+        "postal_code": "10249",
+        "source:maxspeed": "DE:zone",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.43961,
+            52.5238942
+          ],
+          [
+            13.4394897,
+            52.5240521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/182614431",
+      "properties": {
+        "@id": "way/182614431",
+        "cycleway": "lane",
+        "description": "Richard Sorge (1895-1944), a German communist, working as a spy for the Soviet Union in Japan during WW2",
+        "highway": "residential",
+        "maxspeed": "50",
+        "name": "Richard-Sorge-Straße",
+        "note:de": "Richard Sorge (*1895; †1944), deutscher Kommunist, Journalist und Spion für die Sowjetunion in Japan",
+        "old_name": "Tilsiter Straße",
+        "postal_code": "10249",
+        "wikipedia": "de:Richard-Sorge-Straße"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4438645,
+            52.5251649
+          ],
+          [
+            13.4437773,
+            52.5252839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/182614432",
+      "properties": {
+        "@id": "way/182614432",
+        "highway": "residential",
+        "maxspeed": "50",
+        "name": "Straßmannstraße",
+        "note:de": "Wolfgang Straßmann (*1820; †1895) Arzt, Stadtverordnetenvorsteher",
+        "postal_code": "10249",
+        "wikipedia": "de:Wolfgang Straßmann"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.450242,
+            52.5222794
+          ],
+          [
+            13.4504152,
+            52.5223228
+          ],
+          [
+            13.4504703,
+            52.5223365
+          ],
+          [
+            13.4506282,
+            52.5223813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192298337",
+      "properties": {
+        "@id": "way/192298337",
+        "cycleway": "track",
+        "highway": "tertiary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Thaerstraße",
+        "note:de": "Albrecht Daniel Thaer, Agrarreformer (*1752; †1828)",
+        "postal_code": "10249",
+        "sidewalk": "both",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "wikipedia": "de:Albrecht Daniel Thaer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4573993,
+            52.5245346
+          ],
+          [
+            13.4578886,
+            52.5252677
+          ],
+          [
+            13.4579834,
+            52.5253875
+          ],
+          [
+            13.4580547,
+            52.5254446
+          ],
+          [
+            13.4581917,
+            52.5255486
+          ],
+          [
+            13.4583624,
+            52.5256472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257244833",
+      "properties": {
+        "@id": "way/257244833",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Mühsamstraße",
+        "name:de": "(Zorndorfer Straße)",
+        "note:de": "Erich Mühsam (*1878; †1934), Schriftsteller; als Hitlergegner 1934 im KZ Oranienburg ermordet",
+        "postal_code": "10249",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4499245,
+            52.5199868
+          ],
+          [
+            13.4507391,
+            52.520197
+          ],
+          [
+            13.4515172,
+            52.5203977
+          ],
+          [
+            13.4516907,
+            52.5204424
+          ],
+          [
+            13.4517369,
+            52.5204543
+          ],
+          [
+            13.451919,
+            52.5205013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340606617",
+      "properties": {
+        "@id": "way/340606617",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Virchowstraße",
+        "note:de": "Rudolf Virchow (*1821; †1902), Mediziner und Politiker, Begründer der modernen Pathologie",
+        "postal_code": "10249",
+        "wikipedia": "de:Rudolf Virchow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4375313,
+            52.5296721
+          ],
+          [
+            13.4375938,
+            52.529597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340716730",
+      "properties": {
+        "@id": "way/340716730",
+        "cycleway": "track",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Hermann-Blankenstein-Straße",
+        "note:de": "Hermann Blankenstein (*1829; †1910), Berliner Stadtbaurat und Architekt",
+        "postal_code": "10249",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikipedia": "de:Hermann Blankenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.457732,
+            52.5259504
+          ],
+          [
+            13.4581917,
+            52.5255486
+          ],
+          [
+            13.4585287,
+            52.525361
+          ],
+          [
+            13.4590038,
+            52.5251392
+          ],
+          [
+            13.4595749,
+            52.5249018
+          ],
+          [
+            13.4601686,
+            52.524693
+          ],
+          [
+            13.4606492,
+            52.5245364
+          ],
+          [
+            13.4611166,
+            52.5243964
+          ],
+          [
+            13.4631433,
+            52.5239099
+          ],
+          [
+            13.4642498,
+            52.5236458
+          ],
+          [
+            13.4644524,
+            52.5236001
+          ],
+          [
+            13.4653356,
+            52.5234225
+          ],
+          [
+            13.466349,
+            52.5232145
+          ],
+          [
+            13.4670179,
+            52.5230637
+          ],
+          [
+            13.4673916,
+            52.5229592
+          ],
+          [
+            13.4676499,
+            52.5228757
+          ],
+          [
+            13.4679394,
+            52.5227751
+          ],
+          [
+            13.4681889,
+            52.5226746
+          ],
+          [
+            13.4684968,
+            52.5225209
+          ],
+          [
+            13.4687544,
+            52.5223536
+          ],
+          [
+            13.4689408,
+            52.5221984
+          ],
+          [
+            13.4691413,
+            52.5219792
+          ],
+          [
+            13.4692822,
+            52.5217751
+          ],
+          [
+            13.4693701,
+            52.5216106
+          ],
+          [
+            13.469458,
+            52.5214194
+          ],
+          [
+            13.4695069,
+            52.5211925
+          ],
+          [
+            13.4695264,
+            52.5209299
+          ],
+          [
+            13.4695427,
+            52.520389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363555216",
+      "properties": {
+        "@id": "way/363555216",
+        "cycleway": "track",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Thaerstraße",
+        "note:de": "Albrecht Daniel Thaer, Agrarreformer (*1752; †1828)",
+        "postal_code": "10249",
+        "sidewalk": "both",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "wikipedia": "de:Albrecht Daniel Thaer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4558301,
+            52.5222712
+          ],
+          [
+            13.4563307,
+            52.5229587
+          ],
+          [
+            13.4564483,
+            52.5231233
+          ],
+          [
+            13.4565402,
+            52.5232557
+          ],
+          [
+            13.4573993,
+            52.5245346
+          ]
+        ]
+      }
+    }
+  ]
+}
