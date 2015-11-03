@@ -14,5 +14,11 @@ L.geoJson([geojson], {
     else if (feature.properties.gender === "male"){
       return {color: "blue"};
     }
+    else if (feature.properties.gender === "female"){
+      return {color: "red"};
+    }
   },
+  onEachFeature: function(feature, layer) {
+    layer.bindPopup(feature.properties.name);
+  }
 }).addTo(map);
